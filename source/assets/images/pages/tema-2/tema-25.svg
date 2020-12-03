@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="556" height="158" viewBox="0 0 556 158">
+  <g id="Grupo_26066" data-name="Grupo 26066" transform="translate(-422 -3422)">
+    <g id="Rectángulo_26493" data-name="Rectángulo 26493" transform="translate(422 3462)" fill="#fff" stroke="#d9a171" stroke-width="1">
+      <rect width="272" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="271" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26511" data-name="Rectángulo 26511" transform="translate(422 3422)" fill="#a66d58" stroke="#d9a171" stroke-width="1">
+      <rect width="272" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="271" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26494" data-name="Rectángulo 26494" transform="translate(422 3502)" fill="#fff" stroke="#d9a171" stroke-width="1">
+      <rect width="272" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="271" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26495" data-name="Rectángulo 26495" transform="translate(422 3542)" fill="#fff" stroke="#d9a171" stroke-width="1">
+      <rect width="272" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="271" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26496" data-name="Rectángulo 26496" transform="translate(698 3462)" fill="#fff" stroke="#d9a171" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26512" data-name="Rectángulo 26512" transform="translate(698 3422)" fill="#a66d58" stroke="#d9a171" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26510" data-name="Rectángulo 26510" transform="translate(840 3462)" fill="#fff" stroke="#d9a171" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26513" data-name="Rectángulo 26513" transform="translate(840 3422)" fill="#a66d58" stroke="#d9a171" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26497" data-name="Rectángulo 26497" transform="translate(698 3502)" fill="#fff" stroke="#d9a171" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26509" data-name="Rectángulo 26509" transform="translate(840 3502)" fill="#fff" stroke="#d9a171" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26498" data-name="Rectángulo 26498" transform="translate(698 3542)" fill="#fff" stroke="#d9a171" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26508" data-name="Rectángulo 26508" transform="translate(840 3542)" fill="#fff" stroke="#d9a171" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <text id="Gasto_por_perdida" data-name="Gasto por perdida" transform="translate(422 3471)" fill="#00223d" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="74.982" y="15">Gasto por perdida</tspan></text>
+    <text id="Cuenta" transform="translate(422 3431)" fill="#fff" font-size="14" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="110.936" y="15">Cuenta</tspan></text>
+    <text id="Activos_financieros_acciones_" data-name="Activos financieros (acciones)" transform="translate(422 3511)" fill="#00223d" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="37.002" y="15">Activos financieros (acciones)</tspan></text>
+    <text id="Total" transform="translate(422 3551)" fill="#a66d58" font-size="14" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="118.209" y="15">Total</tspan></text>
+    <text id="_300.000" data-name="$ 300.000" transform="translate(698 3471)" fill="#00223d" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="37.288" y="15">$ 300.000</tspan></text>
+    <text id="Debe" transform="translate(698 3431)" fill="#fff" font-size="14" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="51.117" y="15">Debe</tspan></text>
+    <text id="Haber" transform="translate(840 3431)" fill="#fff" font-size="14" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="47.672" y="15">Haber</tspan></text>
+    <text id="_300.000-2" data-name="$ 300.000" transform="translate(840 3511)" fill="#00223d" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="37.288" y="15">$ 300.000</tspan></text>
+    <text id="_300.000-3" data-name="$ 300.000" transform="translate(698 3551)" fill="#a66d58" font-size="14" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="37.216" y="15">$ 300.000</tspan></text>
+    <text id="_300.000-4" data-name="$ 300.000" transform="translate(840 3551)" fill="#a66d58" font-size="14" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="37.216" y="15">$ 300.000</tspan></text>
+  </g>
+</svg>

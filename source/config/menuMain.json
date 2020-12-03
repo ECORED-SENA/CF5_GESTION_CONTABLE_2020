@@ -1,0 +1,58 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-1",
+    "title": "1. Matemáticas financieras",
+    "path": "pages/tema-1.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.1 Concepto",
+        "anchor": "tema-11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.2 Tasas de Interés",
+        "anchor": "tema-12"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.3 Tasa nominal, periódica y efectiva",
+        "anchor": "tema-13"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.4 Tablas de amortización",
+        "anchor": "tema-14"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.5 Alternativas de Inversión",
+        "anchor": "tema-15"
+      }
+    ]  
+  }, 
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-2",
+    "title": "2. Norma Internacional de Información Financiera (NIIF)",
+    "path": "pages/tema-2.html" 
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "tema-3",
+    "title": "3. Medición del Valor Razonable",
+    "path": "pages/tema-3.html" 
+  }
+]

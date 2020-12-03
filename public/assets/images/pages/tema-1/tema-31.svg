@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422" height="118" viewBox="0 0 422 118">
+  <g id="Grupo_26065" data-name="Grupo 26065" transform="translate(-489 -14176)">
+    <g id="Rectángulo_26284" data-name="Rectángulo 26284" transform="translate(489 14176)" fill="#fff" stroke="#aed3f2" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26293" data-name="Rectángulo 26293" transform="translate(631 14176)" fill="#fff" stroke="#aed3f2" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26296" data-name="Rectángulo 26296" transform="translate(773 14176)" fill="#fff" stroke="#aed3f2" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26287" data-name="Rectángulo 26287" transform="translate(489 14256)" fill="#fff" stroke="#aed3f2" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26291" data-name="Rectángulo 26291" transform="translate(631 14256)" fill="#fff" stroke="#aed3f2" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26294" data-name="Rectángulo 26294" transform="translate(773 14256)" fill="#fff" stroke="#aed3f2" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26290" data-name="Rectángulo 26290" transform="translate(489 14216)" fill="#fff" stroke="#aed3f2" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26292" data-name="Rectángulo 26292" transform="translate(631 14216)" fill="#fff" stroke="#aed3f2" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <g id="Rectángulo_26295" data-name="Rectángulo 26295" transform="translate(773 14216)" fill="#fff" stroke="#aed3f2" stroke-width="1">
+      <rect width="138" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="137" height="35" fill="none"/>
+    </g>
+    <text id="Préstamo" transform="translate(489 14185)" fill="#00223d" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="36.454" y="15">Préstamo</tspan></text>
+    <text id="_12.000.000" data-name="$12.000.000" transform="translate(631 14185)" fill="#00223d" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="29.191" y="15">$12.000.000</tspan></text>
+    <text id="Periodo" transform="translate(489 14265)" fill="#00223d" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="42.777" y="15">Periodo</tspan></text>
+    <text id="_6" data-name="6" transform="translate(631 14265)" fill="#00223d" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="65.004" y="15">6</tspan></text>
+    <text id="Tasa" transform="translate(489 14225)" fill="#00223d" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="53.51" y="15">Tasa</tspan></text>
+    <text id="_1.70_" data-name="1.70%" transform="translate(631 14225)" fill="#00223d" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="49.056" y="15">1.70%</tspan></text>
+    <text id="Mensual" transform="translate(773 14225)" fill="#00223d" font-size="14" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="40.2" y="15">Mensual</tspan></text>
+  </g>
+</svg>
